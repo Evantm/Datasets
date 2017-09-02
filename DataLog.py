@@ -6,16 +6,19 @@ import time
 routes  = {"TSA":["30","01","09"],"HSB":["02","03","08"],"LNG":["03"],"SWB":["01","04","05"],"DUK":["30"],"NAN":["02"]}
 url = 'http://orca.bcferries.com:8080/cc/marqui/sailingDetail.asp?route={0}&dept={1}'
 
-file = open("ferryLog.csv", 'w')
+file = open("ferryLog.csv", 'a')
 
 while True:
     num_of_ferreies = 0;
     for r in routes:
         for l in routes[r]:
-            time.sleep(5)
-            req  = requests.get(url.format(l,r))
+            time.sleep(5) #helps not spam the servers
+            try:
+                req  = requests.get(url.format(l,r))
+            except():
+                continue
             for line in req.text.split("\n"):
-                if("var deckspace" in line):
+                if("var deckpspace" in line):
                     link = line.split("\"")[1]
                     query = parse_qs(urlparse(link).query)
 
@@ -34,11 +37,11 @@ while True:
 
                     output = r + "," + l + "," + cars + "," + cur_time + "," + weekday + "\n"
                     file.write(output)
-                    print(output)
-    file.close()
-    file = open("ferryLog.csv", 'w')
+                    print(output,end='')
+    file.flush()
+    time.sleep(30)
+    print("Sleeping")
 
-    print("Sleeping for 60")
     if(num_of_ferreies == 0):
         time.sleep(7200)
         print("Sleeping for 7200")
