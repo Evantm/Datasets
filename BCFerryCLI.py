@@ -1,6 +1,7 @@
 import click
 import requests
 from urllib.parse import urlparse,parse_qs
+import urllib.request
 
 routes = {'TSA':['30','01','09'],'HSB':['02','03','08'],'LNG':['03'],'SWB':['01','04','05'],'DUK':['30'],'NAN':['02']}
 url = 'http://orca.bcferries.com:8080/cc/marqui/sailingDetail.asp?route={0}&dept={1}'
@@ -40,8 +41,18 @@ def scan(depart, arrive):
 def findWait(sub_routes, arrive,depart):
     if (arrive in sub_routes):
         a = sub_routes[arrive]
-        req = requests.get(url.format(a, depart))
-        for line in req.text.split('\n'):
+        req = urllib.request.Request(
+            url=url.format(a, depart),
+            data=None,
+            headers={
+                'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
+            }
+        )
+
+
+        f = urllib.request.urlopen(req)
+
+        for line in f.read().decode('utf-8').split('\n'):
             if ('var deckspace' in line):
                 for n in line.split('\''):
                     if 'DeckSpace_pop' in n:
