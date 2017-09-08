@@ -1,0 +1,569 @@
+stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,parent_station,stop_short_name
+104200,Lansdowne Exchange Bay I,50.6767619962353,-120.326889999543,104200,0,800004,Lansdowne Exchange Bay I
+104201,Westbound Lansdowne at 4th Ave,50.6767649957242,-120.332892,104201,0,,Westbound Lansdowne at 4th Ave
+104202,Westbound Lansdowne at 2nd Ave,50.676729996174295,-120.337401000304,104202,0,,Westbound Lansdowne at 2nd Ave
+104203,Westbound 330 block Victoria St W,50.6783029961141,-120.346869999629,104203,0,,Westbound 330 block Victoria
+104204,Westbound Tranquille at Don,50.6848809961149,-120.35135000006001,104204,0,,Westbound Tranquille at Don
+104205,Northbound Tranquille at Palm,50.6863569965453,-120.356058000377,104205,0,,Northbound Tranquille at Palm
+104206,Northbound Tranquille at Clapperton,50.6877859963029,-120.357286000382,104206,0,,Northbound Tranquille at Clapperton
+104207,Northbound Tranquille at Wood,50.6888389959585,-120.35782099974801,104207,0,,Northbound Tranquille at Wood
+104208,Northbound Tranquille at Oak,50.6926959957278,-120.359362000079,104208,0,,Northbound Tranquille at Oak
+104209,Northbound Tranquille at Vernon,50.6958129962433,-120.36043099971201,104209,0,,Northbound Tranquille at Vernon
+104210,North Shore Exchange Bay C,50.697835996066495,-120.35944200068701,104210,0,800007,North Shore Exchange Bay C
+104211,Westbound Fortune at 8th St,50.699605996206,-120.363697999297,104211,0,,Westbound Fortune at 8th St
+104212,Westbound Tranquille at 11th St,50.7004749963816,-120.369251000155,104212,0,,Westbound Tranquille at 11th St
+104213,Westbound Tranquille at 12th St,50.7010719959792,-120.37317600047001,104213,0,,Westbound Tranquille at 12th St
+104214,Westbound Tranquille at Kelly,50.7015019959674,-120.37623100037601,104214,0,,Westbound Tranquille at Kelly
+104215,Westbound Tranquille at Nicolani,50.70209199573559,-120.38003499954802,104215,0,,Westbound Tranquille at Nicolani
+104216,Westbound Tranquille at Singh,50.7027919960524,-120.384818000147,104216,0,,Westbound Tranquille at Singh
+104217,Westbound Tranquille at Holt,50.7019419961037,-120.389293000412,104217,0,,Westbound Tranquille at Holt
+104218,Westbound Tranquille at Desmond,50.6999439960816,-120.39362499992001,104218,0,,Westbound Tranquille at Desmond
+104219,Westbound Tranquille at Southill,50.69991699644469,-120.398823999984,104219,0,,Westbound Tranquille at Southill
+104220,Westbound Tranquille at Caroline,50.7000619957821,-120.40148100023102,104220,0,,Westbound Tranquille at Caroline
+104221,Westbound Tranquille at Windbreak,50.7003439965823,-120.404691000638,104221,0,,Westbound Tranquille at Windbreak
+104222,Westbound Tranquille at Invermere,50.701094995953596,-120.40870099957301,104222,0,,Westbound Tranquille at Invermere
+104223,Westbound Tranquille at Shelan,50.701621995913,-120.411702999506,104223,0,,Westbound Tranquille at Shelan
+104224,Westbound Tranquille at Schreiner,50.701798996445795,-120.41637100062101,104224,0,,Westbound Tranquille at Schreiner
+104225,Northbound Crestline at Glenview,50.702488995706396,-120.42290999946302,104225,0,,Northbound Crestline at Glenview
+104226,Northbound Crestline at Young,50.7043979961108,-120.422269999988,104226,0,,Northbound Crestline at Young
+104227,Northbound Crestline at Greenfield,50.705752995689096,-120.421201999467,104227,0,,Northbound Crestline at Greenfield
+104234,Eastbound Fleetwood at Schreiner,50.7058989960579,-120.41647800005701,104234,0,,Eastbound Fleetwood at Schreiner
+104235,Eastbound Greenfield at Schreiner,50.704798995777494,-120.41511700056401,104235,0,,Eastbound Greenfield at Schreiner
+104236,Eastbound Greenfield at Westgate,50.704731995776896,-120.40923099998801,104236,0,,Eastbound Greenfield at Westgate
+104237,Eastbound Greenfield at Windbreak,50.7046819964495,-120.40448399983102,104237,0,,Eastbound Greenfield at Windbreak
+104238,Southbound Windbreak at Sunnycrest,50.70250399592,-120.40440100021802,104238,0,,Southbound Windbreak at Sunnycrest
+104239,Eastbound Tranquille at Windbreak,50.7001009964479,-120.40388199943,104239,0,,Eastbound Tranquille at Windbreak
+104240,Eastbound Tranquille at Caroline,50.6999359962541,-120.401479999542,104240,0,,Eastbound Tranquille at Caroline
+104241,Eastbound Tranquille at Southill,50.699736996460096,-120.398461999922,104241,0,,Eastbound Tranquille at Southill
+104242,Eastbound Tranquille at Desmond,50.699722996539194,-120.393877999375,104242,0,,Eastbound Tranquille at Desmond
+104243,Eastbound Tranquille at Holt,50.7021549957602,-120.38819499967201,104243,0,,Eastbound Tranquille at Holt
+104244,Eastbound Tranquille at Singh,50.702454996544795,-120.383867000164,104244,0,,Eastbound Tranquille at Singh
+104245,Eastbound Tranquille at Nicolani,50.7020129961332,-120.380883999317,104245,0,,Eastbound Tranquille at Nicolani
+104246,Eastbound Tranquille at Lepine,50.701553996320094,-120.378050999865,104246,0,,Eastbound Tranquille at Lepine
+104247,Eastbound Tranquille at Valhalla,50.701208996259304,-120.37579000045301,104247,0,,Eastbound Tranquille at Valhalla
+104248,Eastbound Tranquille at 12th St,50.7006159956772,-120.37165799951,104248,0,,Eastbound Tranquille at 12th St
+104249,Eastbound Tranquille at 10th St,50.7001339961599,-120.36857699969902,104249,0,,Eastbound Tranquille at 10th St
+104250,Eastbound Fortune at Tranquille,50.6993529959814,-120.36368000004701,104250,0,,Eastbound Fortune at Tranquille
+104251,North Shore Exchange Bay E,50.6978829965032,-120.360040999828,104251,0,800007,North Shore Exchange Bay E
+104252,Southbound Tranquille at Poplar,50.695302995783,-120.360573999904,104252,0,,Southbound Tranquille at Poplar
+104253,Southbound Tranquille at Yew,50.693028996341695,-120.359712999467,104253,0,,Southbound Tranquille at Yew
+104254,Southbound Tranquille at Aspen,50.69134199616649,-120.35902499966701,104254,0,,Southbound Tranquille at Aspen
+104255,Southbound Tranquille at MacKenzie,50.6896209965134,-120.358347000143,104255,0,,Southbound Tranquille at MacKenzie
+104256,Southbound Tranquille at Knox,50.6871719959058,-120.356991000326,104256,0,,Southbound Tranquille at Knox
+104257,Southbound Tranquille at Palm,50.685388996181096,-120.355597000219,104257,0,,Southbound Tranquille at Palm
+104258,Eastbound Tranquille at Wilson,50.684527996303096,-120.353280999603,104258,0,,Eastbound Tranquille at Wilson
+104259,Eastbound Tranquille at Venus,50.684820996304694,-120.351027999516,104259,0,,Eastbound Tranquille at Venus
+104260,Eastbound 240 block Victoria St W,50.677590996086096,-120.34530399969401,104260,0,,Eastbound 240 block Victoria
+104261,Eastbound Seymour at 1st Ave,50.6752339962736,-120.33848500006,104261,0,,Eastbound Seymour at 1st Ave
+104262,Eastbound Seymour at 3rd Ave,50.674869996533005,-120.33544199957201,104262,0,,Eastbound Seymour at 3rd Ave
+104263,Eastbound Seymour at 4th Ave,50.6748659958091,-120.331399999842,104263,0,,Eastbound Seymour at 4th Ave
+104264,Northbound 6th Ave at Victoria,50.6756049963758,-120.32700599937502,104264,0,,Northbound 6th Ave at Victoria
+104265,Lansdowne Exchange Bay H,50.6767669957554,-120.326611999614,104265,0,800004,Lansdowne Exchange Bay H
+104266,Westbound Yew at Tranquille,50.691552996376295,-120.35956900042402,104266,0,,Westbound Yew at Tranquille
+104267,Westbound MacKenzie at Park,50.6919929959117,-120.362807000415,104267,0,,Westbound MacKenzie at Park
+104268,Westbound MacKenzie at Marcel,50.6931519960284,-120.36534400072401,104268,0,,Westbound MacKenzie at Marcel
+104269,Northbound Willow at Stewart,50.694573995723005,-120.36413000047901,104269,0,,Northbound Willow at Stewart
+104270,Westbound Cottonwood at Willow,50.6965999959564,-120.365396999395,104270,0,,Westbound Cottonwood at Willow
+104271,Westbound Cottonwood at Kenora,50.696619996295595,-120.369008000246,104271,0,,Westbound Cottonwood at Kenora
+104272,Westbound Kenora at 12th St,50.6981069961403,-120.371460000539,104272,0,,Westbound Kenora at 12th St
+104273,Northbound 12th St at Surrey,50.7014319963918,-120.372604000083,104273,0,,Northbound 12th St at Surrey
+104274,Northbound 12th St at Selkirk,50.703607996400095,-120.37252500020901,104274,0,,Northbound 12th St at Selkirk
+104275,Northbound 12th St at Pembroke,50.705887996595294,-120.372501000368,104275,0,,Northbound 12th St at Pembroke
+104276,Northbound 12th St at Halston,50.7083349962938,-120.372415999317,104276,0,,Northbound 12th St at Halston
+104277,Westbound Halston at 13th St,50.7088729959549,-120.37520800068701,104277,0,,Westbound Halston at 13th St
+104278,Westbound Parkcrest at Nicolani,50.709393996103096,-120.38057600063301,104278,0,,Westbound Parkcrest at Nicolani
+104279,Westbound Parkcrest at Singh,50.7094749959962,-120.38454700039,104279,0,,Westbound Parkcrest at Singh
+104280,Westbound Parkcrest at Holt,50.7095719962838,-120.387988000532,104280,0,,Westbound Parkcrest at Holt
+104281,Westbound Fleetwood at Holt,50.707856995956696,-120.389170000593,104281,0,,Westbound Fleetwood at Holt
+104282,Westbound Fleetwood at Desmond,50.70637399598301,-120.392667000144,104282,0,,Westbound Fleetwood at Desmond
+104283,Westbound Fleetwood at Southill,50.705781995743294,-120.397326000463,104283,0,,Westbound Fleetwood at Southill
+104284,Westbound Parkcrest at Bentley,50.7078379964252,-120.39920499980101,104284,0,,Westbound Parkcrest at Bentley
+104285,Westbound Parkcrest at Ponlen,50.707874996203095,-120.40190300059301,104285,0,,Westbound Parkcrest at Ponlen
+104286,Westbound Parkcrest at Windbreak,50.7078679959307,-120.40444100050802,104286,0,,Westbound Parkcrest at Windbreak
+104287,Westbound Parkcrest at McLean,50.707900995956095,-120.410142999908,104287,0,,Westbound Parkcrest at McLean
+104289,Westbound Parkcrest at Schreiner,50.707944996455005,-120.41551500013601,104289,0,,Westbound Parkcrest at Schreiner
+104290,Southbound Schreiner at Fleetwood,50.7064339965171,-120.41599799961801,104290,0,,Southbound Schreiner at Fleetwood
+104291,Northbound Crestline at Fleetwood,50.7062499959678,-120.420957999484,104291,0,,Northbound Crestline at Fleetwood
+104292,Northbound Crestline at Parkcrest,50.7079049964057,-120.420624000618,104292,0,,Northbound Crestline at Parkcrest
+104293,Northbound Crestline at Rosewood,50.7093159965468,-120.42064899934901,104293,0,,Northbound Crestline at Rosewood
+104294,Eastbound Briarwood at Crestline,50.7100499962477,-120.418960999668,104294,0,,Eastbound Briarwood at Crestline
+104295,Southbound Schreiner at Paulsen,50.709426995865904,-120.41593899948201,104295,0,,Southbound Schreiner at Paulsen
+104296,Eastbound Parkcrest at Schreiner,50.7078239963272,-120.41502399972201,104296,0,,Eastbound Parkcrest at Schreiner
+104297,Eastbound Parkcrest at McLean,50.7077879960829,-120.410356000594,104297,0,,Eastbound Parkcrest at McLean
+104298,Eastbound Parkcrest at Windbreak,50.7077669962518,-120.404792000328,104298,0,,Eastbound Parkcrest at Windbreak
+104299,Eastbound Parkcrest at Ponlen,50.707747996471,-120.40152500022401,104299,0,,Eastbound Parkcrest at Ponlen
+104300,Southbound Southill at Parkcrest,50.707402996275896,-120.39763399957901,104300,0,,Southbound Southill at Parkcrest
+104301,Eastbound Fleetwood at Southill,50.705656996421794,-120.39694099957,104301,0,,Eastbound Fleetwood at Southill
+104302,Eastbound Fleetwood at Desmond,50.7062299961022,-120.392614000117,104302,0,,Eastbound Fleetwood at Desmond
+104303,Eastbound Fleetwood at Holt,50.7077899957268,-120.388882999743,104303,0,,Eastbound Fleetwood at Holt
+104304,Eastbound Parkcrest at Holt,50.7094509958675,-120.38800000016201,104304,0,,Eastbound Parkcrest at Holt
+104305,Eastbound Parkcrest at Singh,50.7093339958762,-120.383140999615,104305,0,,Eastbound Parkcrest at Singh
+104306,Eastbound Parkcrest at Ollek,50.7092469964251,-120.379468999808,104306,0,,Eastbound Parkcrest at Ollek
+104307,Eastbound Halston at 13th St,50.7087229959122,-120.37395600029801,104307,0,,Eastbound Halston at 13th St
+104308,Southbound 12th St at Pembroke,50.70651099600959,-120.37269999939001,104308,0,,Southbound 12th St at Pembroke
+104309,Southbound 12th St at Selkirk,50.7036439964595,-120.372759999503,104309,0,,Southbound 12th St at Selkirk
+104310,Southbound 12th St at Tranquille,50.700584996196596,-120.372773000033,104310,0,,Southbound 12th St at Tranquille
+104311,Eastbound Kenora at 12th St,50.698001995815694,-120.371602999491,104311,0,,Eastbound Kenora at 12th St
+104312,Eastbound Cottonwood at Kenora,50.6965179965816,-120.3687749999,104312,0,,Eastbound Cottonwood at Kenora
+104313,Eastbound Cottonwood at Willow,50.6964499965148,-120.364999000319,104313,0,,Eastbound Cottonwood at Willow
+104314,Southbound Willow at Stewart,50.694619995908695,-120.364341000496,104314,0,,Southbound Willow at Stewart
+104315,Southbound Willow at MacKenzie,50.693740995877,-120.36526700017001,104315,0,,Southbound Willow at MacKenzie
+104316,Eastbound MacKenzie at Thrupp,50.692157995810895,-120.363500000341,104316,0,,Eastbound MacKenzie at Thrupp
+104317,Eastbound MacKenzie at Williams,50.690541996006395,-120.359902999674,104317,0,,Eastbound MacKenzie at Williams
+104318,Lansdowne Exchange Bay G,50.6767669965836,-120.32633000056501,104318,0,800004,Lansdowne Exchange Bay G
+104319,Northbound Fortune at Baker,50.6862209959497,-120.34707999961302,104319,0,,Northbound Fortune at Baker
+104320,Northbound Fortune at Fort,50.688324996315394,-120.348062999661,104320,0,,Northbound Fortune at Fort
+104321,Northbound Fortune at Spruce,50.6903069960027,-120.350693999312,104321,0,,Northbound Fortune at Spruce
+104322,Northbound Fortune at Wood,50.69178899575859,-120.352794000389,104322,0,,Northbound Fortune at Wood
+104323,Northbound Fortune at Aspen,50.6929699957742,-120.35440399975101,104323,0,,Northbound Fortune at Aspen
+104324,Northbound Fortune at Chestnut,50.6950359963615,-120.355845999354,104324,0,,Northbound Fortune at Chestnut
+104325,Northbound Fortune at Holly,50.696584996151294,-120.356664000237,104325,0,,Northbound Fortune at Holly
+104326,North Shore Exchange Bay D,50.6979129963475,-120.359796000009,104326,0,800007,North Shore Exchange Bay D
+104327,Northbound 8th St at Fortune,50.700143996012294,-120.36290199938001,104327,0,,Northbound 8th St at Fortune
+104328,Northbound 8th St at Richmond,50.7025789962838,-120.36337300058501,104328,0,,Northbound 8th St at Richmond
+104329,Northbound 8th St at Sherbrooke,50.7041009957239,-120.363614000061,104329,0,,Northbound 8th St at Sherbrooke
+104330,Northbound 8th St at 7th St,50.7066839965867,-120.364066000026,104330,0,,Northbound 8th St at 7th St
+104331,Northbound Westsyde at Collingwood,50.7138589960044,-120.36380599961201,104331,0,,Northbound Westsyde at Collingwood
+104332,Northbound Westsyde at Westmount,50.715332996467694,-120.361834000393,104332,0,,Northbound Westsyde at Westmount
+104333,Northbound Westsyde at Collingwood,50.7170919962782,-120.359644000516,104333,0,,Northbound Westsyde at Collingwood
+104334,Northbound Westsyde at Walkem,50.719061995739004,-120.35948600018001,104334,0,,Northbound Westsyde at Walkem
+104335,Northbound Westsyde at Yates,50.7213119964974,-120.359679000313,104335,0,,Northbound Westsyde at Yates
+104336,Northbound Westsyde at Anderson,50.7245450090578,-120.35859611130101,104336,0,,Northbound Westsyde at Anderson
+104337,Northbound Westsyde at McQueen,50.7292209958558,-120.359039000272,104337,0,,Northbound Westsyde at McQueen
+104338,Northbound Westsyde at Woodhaven,50.7316299959143,-120.35865899993802,104338,0,,Northbound Westsyde at Woodhaven
+104339,Northbound Westsyde at Rue Chez Nous,50.7367719959382,-120.35821600027701,104339,0,,Northbound Westsyde at Rue Chez Nous
+104340,Northbound Westsyde at Parkview,50.7414499965634,-120.35720599988201,104340,0,,Northbound Westsyde at Parkview
+104341,Northbound Westsyde at Oak Hills,50.7452529961622,-120.35733099952401,104341,0,,Northbound Westsyde at Oak Hills
+104342,Northbound Westsyde at Franklin,50.7509029964872,-120.35489600056302,104342,0,,Northbound Westsyde at Franklin
+104343,Northbound Westsyde at Morven,50.753563995830596,-120.35232999983499,104343,0,,Northbound Westsyde at Morven
+104344,Northbound Westsyde at Soldier,50.756061996411496,-120.349985999313,104344,0,,Northbound Westsyde at Soldier
+104345,Northbound Westsyde at Garnet,50.759249995803,-120.348736999459,104345,0,,Northbound Westsyde at Garnet
+104346,Northbound Westsyde at Bissette,50.7616789964412,-120.34868000048101,104346,0,,Northbound Westsyde at Bissette
+104347,Northbound Westsyde at Porterfield,50.7653609957909,-120.34642800027001,104347,0,,Northbound Westsyde at Porterfield
+104348,Northbound Westsyde at Porterfield,50.765783996244096,-120.34614800044801,104348,0,,Northbound Westsyde at Porterfield
+104349,Northbound Westsyde at Puhallo,50.7694759958119,-120.34370700024802,104349,0,,Northbound Westsyde at Puhallo
+104350,Northbound Westsyde at Overlander,50.771727996001395,-120.34222299943501,104350,0,,Northbound Westsyde at Overlander
+104351,Northbound Westsyde at Sun Valley,50.7740769958386,-120.34067800068802,104351,0,,Northbound Westsyde at Sun Valley
+104352,Eastbound Harrington at Mountainview,50.7754419960804,-120.339187000595,104352,0,,Eastbound Harrington at Mountainview
+104353,Eastbound Harrington at Overlander,50.7754409965849,-120.332802000152,104353,0,,Eastbound Harrington at Overlander
+104354,Southbound Overlander at Reemon,50.7743989965785,-120.33199899957701,104354,0,,Southbound Overlander at Reemon
+104355,Westbound Sicamore at Overlander,50.772721996154495,-120.33412200015,104355,0,,Westbound Sicamore at Overlander
+104356,Southbound Bank at Overlander,50.771243996332196,-120.33985800066301,104356,0,,Southbound Bank at Overlander
+104357,Southbound Westsyde at Dever,50.7709699960663,-120.343113999755,104357,0,,Southbound Westsyde at Dever
+104358,Southbound Westsyde at Jensen,50.7692459957202,-120.344219999411,104358,0,,Southbound Westsyde at Jensen
+104359,Southbound Westsyde at Lyne,50.76675899649359,-120.34588700034101,104359,0,,Southbound Westsyde at Lyne
+104360,Southbound Westsyde at Serle,50.7632659957893,-120.348187000484,104360,0,,Southbound Westsyde at Serle
+104361,Southbound Westsyde at Bissette,50.7610269962936,-120.34909500031101,104361,0,,Southbound Westsyde at Bissette
+104362,Southbound Westsyde at Garnet,50.7593919958666,-120.34910000000801,104362,0,,Southbound Westsyde at Garnet
+104363,Southbound Westsyde at Georgeann,50.7564369957149,-120.350005999491,104363,0,,Southbound Westsyde at Georgeann
+104364,Southbound Westsyde at Morven,50.7534009958322,-120.352869000705,104364,0,,Southbound Westsyde at Morven
+104365,Southbound Westsyde at Agassiz,50.7511059965698,-120.355117000003,104365,0,,Southbound Westsyde at Agassiz
+104366,Southbound Westsyde at Oak Hills,50.744383996284796,-120.357376999552,104366,0,,Southbound Westsyde at Oak Hills
+104367,Southbound Westsyde at Parkview,50.741156996032004,-120.35772899978701,104367,0,,Southbound Westsyde at Parkview
+104368,Southbound Westsyde at Rue Chez Nous,50.7363709966219,-120.35850600053101,104368,0,,Southbound Westsyde at Rue Chez Nous
+104369,Southbound Westsyde at Woodhaven,50.7311399960397,-120.35908799939101,104369,0,,Southbound Westsyde at Woodhaven
+104370,Southbound Westsyde at McQueen,50.728663995871,-120.35917199984202,104370,0,,Southbound Westsyde at McQueen
+104371,Southbound Westsyde at Anderson,50.72404699598379,-120.35907300047401,104371,0,,Southbound Westsyde at Anderson
+104372,Southbound Westsyde at Yates,50.7209009957697,-120.360113000491,104372,0,,Southbound Westsyde at Yates
+104373,Southbound Westsyde at Walkem,50.718412996607,-120.359675000298,104373,0,,Southbound Westsyde at Walkem
+104374,Southbound Westsyde at Westmount,50.715003995957794,-120.362733000554,104374,0,,Southbound Westsyde at Westmount
+104375,Southbound Westsyde at Collingwood,50.713530996357,-120.36455200043201,104375,0,,Southbound Westsyde at Collingwood
+104376,Southbound 8th St at Sudbury,50.706956996038,-120.364529999325,104376,0,,Southbound 8th St at Sudbury
+104377,Southbound 8th St at Lethbridge,50.705130996432494,-120.36416500062701,104377,0,,Southbound 8th St at Lethbridge
+104378,Southbound 8th St at Selkirk,50.7036689957477,-120.363953999915,104378,0,,Southbound 8th St at Selkirk
+104379,Southbound 8th St at Moncton,50.7021659958019,-120.36365299939601,104379,0,,Southbound 8th St at Moncton
+104380,Southbound 8th St at Fortune,50.69992799634439,-120.363218999772,104380,0,,Southbound 8th St at Fortune
+104381,North Shore Exchange Bay B,50.6977729960303,-120.35979500051,104381,0,800007,North Shore Exchange Bay B
+104382,Southbound Fortune at Nelson,50.6964319960673,-120.35697900015901,104382,0,,Southbound Fortune at Nelson
+104383,Southbound Fortune at Oak,50.6943329959405,-120.35603000041601,104383,0,,Southbound Fortune at Oak
+104384,Southbound Fortune at Evans,50.692531996166096,-120.354257999957,104384,0,,Southbound Fortune at Evans
+104385,Southbound Fortune at Wood,50.6912999961338,-120.35253700035801,104385,0,,Southbound Fortune at Wood
+104386,Southbound Fortune at Spruce,50.69001599622629,-120.35074499931301,104386,0,,Southbound Fortune at Spruce
+104387,Southbound Fortune at Leigh,50.6875119959474,-120.347822999784,104387,0,,Southbound Fortune at Leigh
+104388,Southbound Fortune at Larch,50.6857759959216,-120.347430000051,104388,0,,Southbound Fortune at Larch
+104390,Southbound 4th Ave at Seymour,50.6745989958623,-120.33211000019202,104390,0,,Southbound 4th Ave at Seymour
+104391,Southbound 4th Ave at Battle,50.6729019964196,-120.33208999969501,104391,0,,Southbound 4th Ave at Battle
+104392,Southbound 4th Ave at Nicola,50.6719189965946,-120.33213300026802,104392,0,,Southbound 4th Ave at Nicola
+104393,Westbound Columbia at 3rd Ave,50.671508995938495,-120.333965000282,104393,0,,Westbound Columbia at 3rd Ave
+104394,Eastbound 750 block Sahali,50.6715209960879,-120.344748999496,104394,0,,Eastbound 750 block Sahali
+104395,Eastbound Sahali at Pemberton,50.670606995954,-120.343064999842,104395,0,,Eastbound Sahali at Pemberton
+104396,Eastbound Bestwick at Anvil,50.6691059963706,-120.34118799977001,104396,0,,Eastbound Bestwick at Anvil
+104397,Westbound McGill at Monashee,50.6674639957307,-120.340442000016,104397,0,,Westbound McGill at Monashee
+104398,Northbound 250 block McGill,50.6673419963684,-120.344220999415,104398,0,,Northbound 250 block McGill
+104399,Westbound McGill at Chapperon,50.669080996066704,-120.349663999623,104399,0,,Westbound McGill at Chapperon
+104400,Westbound McGill at Frontage,50.66997299610969,-120.352756999653,104400,0,,Westbound McGill at Frontage
+104401,Westbound McGill at Summit,50.6694799962908,-120.356392999511,104401,0,,Westbound McGill at Summit
+104402,Westbound McGill at University,50.6681859963954,-120.361436999869,104402,0,,Westbound McGill at University
+104403,Northbound Dalhousie at McGill,50.668074995952395,-120.36408999993701,104403,0,,Northbound Dalhousie at McGill
+104404,Westbound Dalhousie,50.670280996130096,-120.365313999611,104404,0,,Westbound Dalhousie
+104405,TRU Exchange Bay G,50.67083699584919,-120.3684639996,104405,0,800014,TRU Exchange Bay G
+104406,Southbound Hillside at McGill,50.6688139964541,-120.37007099978,104406,0,,Southbound Hillside at McGill
+104407,Southbound 1040 block Hillside,50.6652349957713,-120.372942999576,104407,0,,Southbound 1040 block Hillside
+104408,Southbound Hillside at Notre Dame,50.6639509958755,-120.37184800070801,104408,0,,Southbound Hillside at Notre Dame
+104409,Southbound Aberdeen Mall,50.655340996167794,-120.37241700010699,104409,0,,Southbound Aberdeen Mall
+104410,Southbound Pacific at Hillside,50.6543769964184,-120.37830700012101,104410,0,,Southbound Pacific at Hillside
+104411,Southbound Pacific at Hugh Allan,50.6514239962075,-120.380609000477,104411,0,,Southbound Pacific at Hugh Allan
+104412,Southbound Pacific at Pearson,50.649559995765,-120.379335999464,104412,0,,Southbound Pacific at Pearson
+104413,Eastbound Pacific at Howe,50.64675199623,-120.374584000308,104413,0,,Eastbound Pacific at Howe
+104414,Eastbound Pacific at Ravenwood,50.64558399599029,-120.371719999682,104414,0,,Eastbound Pacific at Ravenwood
+104415,Southbound Pacific at Greystone,50.6430729959601,-120.366882999587,104415,0,,Southbound Pacific at Greystone
+104416,Southbound Pacific at Links,50.6399389957313,-120.36986400006101,104416,0,,Southbound Pacific at Links
+104417,Southbound Pacific at Aberdeen,50.6375629960276,-120.37062599990301,104417,0,,Southbound Pacific at Aberdeen
+104418,Eastbound 2510 block Pacific,50.6347989962744,-120.367847999719,104418,0,,Eastbound 2510 block Pacific
+104419,Eastbound Abbeyglen at Bramble,50.634134996517005,-120.36335299939302,104419,0,,Eastbound Abbeyglen at Bramble
+104420,Westbound Abbeyglen at Regent,50.636591995897895,-120.36123000007001,104420,0,,Westbound Abbeyglen at Regent
+104421,Eastbound Aberdeen at Abbeyglen,50.637979995894796,-120.36494400006,104421,0,,Eastbound Aberdeen at Abbeyglen
+104422,Northbound Van Horne at Aberdeen,50.6386259958326,-120.358775999946,104422,0,,Northbound Van Horne at Aberdeen
+104423,Northbound Van Horne at Laurier,50.6401979965299,-120.35910299971201,104423,0,,Northbound Van Horne at Laurier
+104424,Westbound Laurier at Galloway,50.6392569965155,-120.360669999603,104424,0,,Westbound Laurier at Galloway
+104425,Northbound Garymede at Laurier,50.6396029964631,-120.36259799945302,104425,0,,Northbound Garymede at Laurier
+104426,Northbound Garymede at Greystone,50.6423489960927,-120.36572799941301,104426,0,,Northbound Garymede at Greystone
+104427,Northbound Pacific at Greystone,50.644002996511404,-120.367562000321,104427,0,,Northbound Pacific at Greystone
+104428,Westbound Pacific at Ravenwood,50.6461309957514,-120.372696999667,104428,0,,Westbound Pacific at Ravenwood
+104429,Northbound Pacific at Howe,50.647566996241395,-120.37632500054801,104429,0,,Northbound Pacific at Howe
+104430,Westbound Pacific at Pearson,50.649873996254996,-120.379486999647,104430,0,,Westbound Pacific at Pearson
+104431,Eastbound Hillside at Pacific,50.654460995741005,-120.37613499977401,104431,0,,Eastbound Hillside at Pacific
+104432,Northbound Aberdeen Mall,50.655681996577,-120.37203200059,104432,0,,Northbound Aberdeen Mall
+104433,Northbound Hillside at Cariboo,50.6611489959263,-120.36963400030301,104433,0,,Northbound Hillside at Cariboo
+104434,Northbound Hillside at Notre Dame,50.6642159965811,-120.371718000588,104434,0,,Northbound Hillside at Notre Dame
+104435,Northbound Hillside at McGill,50.6669669963924,-120.370051000195,104435,0,,Northbound Hillside at McGill
+104436,Northbound Hillside at McGill,50.6688189959419,-120.36969400056,104436,0,,Northbound Hillside at McGill
+104437,TRU Exchange Bay D,50.6712369959738,-120.36804300006801,104437,0,800014,TRU Exchange Bay D
+104438,Eastbound Dalhousie,50.670087995762195,-120.36512600057802,104438,0,,Eastbound Dalhousie
+104439,Eastbound McGill at Dalhousie,50.6676549964342,-120.363173999818,104439,0,,Eastbound McGill at Dalhousie
+104440,Eastbound McGill at Summit,50.669158996361794,-120.35651499983801,104440,0,,Eastbound McGill at Summit
+104441,Eastbound McGill at Frontage,50.6698269962111,-120.352751999342,104441,0,,Eastbound McGill at Frontage
+104442,Eastbound McGill at Chapperon,50.6688139957501,-120.3494749994,104442,0,,Eastbound McGill at Chapperon
+104443,Southbound 240 block McGill,50.667195996338,-120.34430599938,104443,0,,Southbound 240 block McGill
+104444,Eastbound McGill at Monashee,50.667321996563004,-120.341609000008,104444,0,,Eastbound McGill at Monashee
+104445,Eastbound McGill at Bestwick,50.66715599633601,-120.338944000392,104445,0,,Eastbound McGill at Bestwick
+104446,Northbound Bestwick at Greenstone,50.668634995892596,-120.338590000248,104446,0,,Northbound Bestwick at Greenstone
+104447,Westbound Bestwick at Sahali,50.669442996185396,-120.341618000021,104447,0,,Westbound Bestwick at Sahali
+104448,Northbound Sahali at Pemberton,50.6709499965591,-120.343045999463,104448,0,,Northbound Sahali at Pemberton
+104449,Northbound Sahali at Columbia St W,50.672173995819804,-120.344674000513,104449,0,,Northbound Sahali at Columbia
+104450,Northbound 3rd Ave at Columbia,50.6718169963164,-120.334315999291,104450,0,,Northbound 3rd Ave at Columbia
+104451,Northbound 3rd Ave at Battle,50.6735629957182,-120.334323000382,104451,0,,Northbound 3rd Ave at Battle
+104452,Northbound 3rd Ave at Seymour,50.6746569957177,-120.33431899948499,104452,0,,Northbound 3rd Ave at Seymour
+104453,TRU Exchange Bay H,50.6707429963479,-120.368642000489,104453,0,800014,TRU Exchange Bay H
+104454,Westbound Hillside at Pacific,50.6554119957423,-120.379398999678,104454,0,,Westbound Hillside at Pacific
+104455,Westbound Hillside at Mount Dufferin Ave,50.6562519958867,-120.383336999983,104455,0,,Westbound Hillside at Mount Dufferin Ave
+104456,Westbound Hillside at Monterey,50.65794699601349,-120.387057000291,104456,0,,Westbound Hillside at Monterey
+104457,Westbound Hillside at Mount Dufferin Dr,50.659009995929395,-120.389242999731,104457,0,,Westbound Hillside at Mount Dufferin Dr
+104458,Westbound 1860 block Hillside,50.66090199573819,-120.39315800019101,104458,0,,Westbound 1860 block Hillside
+104459,Westbound Hillside at Copperhead,50.6617469965566,-120.397319999931,104459,0,,Westbound Hillside at Copperhead
+104460,Southbound Copperhead at Iron Mask,50.6590429960053,-120.400468999615,104460,0,,Southbound Copperhead at Iron Mask
+104461,Southbound Copperhead at Kryczka,50.65634299625479,-120.400800000222,104461,0,,Southbound Copperhead at Kryczka
+104462,Westbound Hugh Allan at Lodgepole,50.65372299612069,-120.40195400038401,104462,0,,Westbound Hugh Allan at Lodgepole
+104466,Southbound Lodgepole at Englemann,50.652165995850694,-120.40350100070201,104466,0,,Southbound Lodgepole at Englemann
+104467,Eastbound Lodgepole at Arnica,50.6506729963266,-120.39975899958901,104467,0,,Eastbound Lodgepole at Arnica
+104468,Northbound Lodgepole at Snowberry,50.651366996204196,-120.397367000011,104468,0,,Northbound Lodgepole at Snowberry
+104469,Northbound Copperhead at Lodgepole,50.6524629961855,-120.396949999676,104469,0,,Northbound Copperhead at Lodgepole
+104470,Northbound Copperhead at Hugh Allan,50.6537049962026,-120.39834299936001,104470,0,,Northbound Copperhead at Hugh Allan
+104471,Northbound Copperhead at Kryczka,50.657165996046,-120.401131999368,104471,0,,Northbound Copperhead at Kryczka
+104472,Northbound Copperhead at Versatile,50.6591749963436,-120.399860000084,104472,0,,Northbound Copperhead at Versatile
+104473,Eastbound Hillside at Copperhead,50.661725995997095,-120.397765999453,104473,0,,Eastbound Hillside at Copperhead
+104474,Eastbound 1860 block Hillside,50.660782995866796,-120.393313999715,104474,0,,Eastbound 1860 block Hillside
+104475,Eastbound Hillside at Davies,50.6583659958177,-120.38826399994201,104475,0,,Eastbound Hillside at Davies
+104476,Eastbound Hillside at Mount Dufferin Cres,50.65737799567739,-120.386246999552,104476,0,,Eastbound Hillside at Mount Dufferin Cres
+104477,Eastbound Hillside at Mount Dufferin Ave,50.6560819964444,-120.38264499972802,104477,0,,Eastbound Hillside at Mount Dufferin Ave
+104478,Eastbound Hillside at Cannel,50.6553729956977,-120.37994899958301,104478,0,,Eastbound Hillside at Cannel
+104479,Lansdowne Exchange Bay D,50.676850996532494,-120.32564500060201,104479,0,800004,Lansdowne Exchange Bay D
+104480,Eastbound Columbia at 4th Ave,50.6712959960134,-120.331429000278,104480,0,,Eastbound Columbia at 4th Ave
+104481,Eastbound Columbia at 5th Ave,50.6712879964939,-120.329303999619,104481,0,,Eastbound Columbia at 5th Ave
+104483,Southbound 7th Ave at Columbia,50.6710089959759,-120.32439899934101,104483,0,,Southbound 7th Ave at Columbia
+104484,Southbound 7th Ave at Pine,50.6694219960766,-120.32440000004101,104484,0,,Southbound 7th Ave at Pine
+104485,Southbound 7th Ave at Munro,50.6669409958158,-120.32444700006201,104485,0,,Southbound 7th Ave at Munro
+104486,Southbound 6th Ave at Cowan,50.665729995864,-120.32746700070001,104486,0,,Southbound 6th Ave at Cowan
+104487,Eastbound Fraser at Tunstall,50.6642119958377,-120.32656700016202,104487,0,,Eastbound Fraser at Tunstall
+104488,Eastbound Fraser St at Fraser Cres,50.6643339962206,-120.32358900002401,104488,0,,Eastbound Fraser St at Fraser Cres
+104489,Eastbound Fraser at 9th Ave,50.6641809959283,-120.318647999625,104489,0,,Eastbound Fraser at 9th Ave
+104490,Northbound Fraser at McMurdo,50.6656059958382,-120.316272000688,104490,0,,Northbound Fraser at McMurdo
+104491,Northbound 11th Ave at Douglas,50.667945996258794,-120.31412200046701,104491,0,,Northbound 11th Ave at Douglas
+104492,Eastbound Pine at 11th Ave,50.669519996150804,-120.31369200056501,104492,0,,Eastbound Pine at 11th Ave
+104493,Northbound 13th Ave at Pine,50.66992799610849,-120.309294999773,104493,0,,Northbound 13th Ave at Pine
+104494,Westbound Columbia at 13th Ave,50.6714129965074,-120.31035799967901,104494,0,,Westbound Columbia at 13th Ave
+104495,Westbound Columbia at 12th Ave,50.6714269964302,-120.312225000422,104495,0,,Westbound Columbia at 12th Ave
+104496,Northbound 11th Ave at Columbia,50.6717619957794,-120.31408700071,104496,0,,Northbound 11th Ave at Columbia
+104497,Westbound Battle at 11th Ave,50.6731629959257,-120.31466000038401,104497,0,,Westbound Battle at 11th Ave
+104498,Westbound Battle at 9th Ave,50.6731789958838,-120.31935199949402,104498,0,,Westbound Battle at 9th Ave
+104499,Southbound 7th Ave at Battle,50.672916996195404,-120.32440800057002,104499,0,,Southbound 7th Ave at Battle
+104500,Westbound Columbia at 7th Ave,50.6714619964847,-120.324659999719,104500,0,,Westbound Columbia at 7th Ave
+104501,Ponderosa Lodge Entrance,50.6696699965725,-120.331499000059,104501,0,,Ponderosa Lodge Entrance
+104502,Westbound Hospital Access at Glenfair,50.6681579958568,-120.330830000494,104502,0,,Westbound Hospital Access at Glenfair
+104503,Royal Inland Hospital Entrance,50.6698889962825,-120.333556000017,104503,0,,Royal Inland Hospital Entrance
+104504,Lansdowne Exchange Bay C,50.67685099572059,-120.32591999947701,104504,0,800004,Lansdowne Exchange Bay C
+104506,Southbound 6th Ave at St Paul,50.673667996560795,-120.32725199949401,104506,0,,Southbound 6th Ave at St Paul
+104507,Southbound 6th Ave at Columbia,50.6716729965436,-120.32726900004201,104507,0,,Southbound 6th Ave at Columbia
+104508,Westbound Columbia at 5th Ave,50.67150599602309,-120.33003899938701,104508,0,,Westbound Columbia at 5th Ave
+104509,Westbound Columbia St W at Bluff,50.6730179966065,-120.345764000369,104509,0,,Westbound Columbia at Bluff
+104510,Westbound Columbia St W at Grandview,50.6737699958538,-120.35052000043801,104510,0,,Westbound Columbia at Grandview
+104511,Southbound Columbia St W at Frontage,50.6724689959923,-120.353702000381,104511,0,,Southbound Columbia at Frontage
+104512,TRU Exchange Bay F,50.6709529964865,-120.368273000622,104512,0,800014,TRU Exchange Bay F
+104513,Southbound 1050 block Summit,50.6678289961121,-120.357252999723,104513,0,,Southbound 1050 block Summit
+104514,Eastbound Summit at Arrowstone,50.6663949964848,-120.351369000564,104514,0,,Eastbound Summit at Arrowstone
+104515,Southbound Summit at Notre Dame,50.6631539962766,-120.34846400034301,104515,0,,Southbound Summit at Notre Dame
+104516,Westbound Notre Dame at Columbia St W,50.6635349962176,-120.35175199992601,104516,0,,Westbound Notre Dame at Columbia
+104517,Westbound Notre Dame at Laval,50.6636499964633,-120.35678499985,104517,0,,Westbound Notre Dame at Laval
+104518,Westbound Notre Dame at Cemetery,50.66362099617219,-120.359603000652,104518,0,,Westbound Notre Dame at Cemetery
+104519,Westbound Notre Dame at Dalhousie,50.66356699599989,-120.361739000339,104519,0,,Westbound Notre Dame at Dalhousie
+104520,Westbound Notre Dame at Dalhousie,50.663530995750094,-120.364910999624,104520,0,,Westbound Notre Dame at Dalhousie
+104521,Westbound Notre Dame at Hillside,50.6632899962297,-120.369402999699,104521,0,,Westbound Notre Dame at Hillside
+104522,Southbound Hillside Way at Hillside Crt,50.6559879963556,-120.369230000361,104522,0,,Southbound Hillside Way at Hillside Crt
+104523,Westbound Rogers at Braeview,50.6514219957843,-120.368618999348,104523,0,,Westbound Rogers at Braeview
+104524,Westbound 1250 block Rogers,50.651501995965496,-120.37240499945,104524,0,,Westbound 1250 block Rogers
+104525,Westbound Rogers at Hugh Allan,50.6517589957566,-120.37490899987002,104525,0,,Westbound Rogers at Hugh Allan
+104526,Southbound Hugh Allan at Rogers,50.650916996472795,-120.37529999985901,104526,0,,Southbound Hugh Allan at Rogers
+104527,Eastbound Hugh Allan at Harrison,50.6496489965571,-120.37294200058,104527,0,,Eastbound Hugh Allan at Harrison
+104528,Eastbound Hugh Allan at Howe,50.6486779961751,-120.36735399969,104528,0,,Eastbound Hugh Allan at Howe
+104529,Eastbound Hugh Allan at Gloaming,50.6485579962446,-120.36337399951,104529,0,,Eastbound Hugh Allan at Gloaming
+104530,Eastbound 880 block Hugh Allan,50.648349996426596,-120.361410999631,104530,0,,Eastbound 880 block Hugh Allan
+104531,Southbound Sifton Ave at Sifton Lane,50.6462709962081,-120.36026500015201,104531,0,,Southbound Sifton Ave at Sifton Lane
+104532,Southbound Sifton Ave at Sifton Lane,50.643809996389,-120.355711000122,104532,0,,Southbound Sifton Ave at Sifton Lane
+104533,Eastbound 2240 block Sifton,50.639957995789494,-120.351230000377,104533,0,,Eastbound 2240 block Sifton
+104534,Eastbound Laurier at Sifton,50.6378439964342,-120.34964599930801,104534,0,,Eastbound Laurier at Sifton
+104535,Southbound Laurier at Aberdeen,50.637081996485094,-120.348748000078,104535,0,,Southbound Laurier at Aberdeen
+104536,Westbound Aberdeen at Drummond,50.6374909963686,-120.35315500023201,104536,0,,Westbound Aberdeen at Drummond
+104537,Westbound 650 block Aberdeen,50.6378789957512,-120.356312000436,104537,0,,Westbound 650 block Aberdeen
+104538,Westbound Van Horne at Greystone,50.6432799959616,-120.363890999347,104538,0,,Westbound Van Horne at Greystone
+104539,Northbound Van Horne at Holyrood,50.644974995922,-120.36539199980601,104539,0,,Northbound Van Horne at Holyrood
+104540,Westbound Van Horne at Huntleigh,50.6468189959492,-120.367425000604,104540,0,,Westbound Van Horne at Huntleigh
+104541,Northbound Van Horne at Howe,50.647814996151894,-120.371341999845,104541,0,,Northbound Van Horne at Howe
+104542,Eastbound 1130 block Howe,50.6479949957508,-120.36753800047701,104542,0,,Eastbound 1130 block Howe
+104543,Westbound Hugh Allan at Howe,50.6488099957306,-120.36687499979601,104543,0,,Westbound Hugh Allan at Howe
+104544,Westbound Hugh Allan at Harrison,50.6499979964287,-120.37326299983201,104544,0,,Westbound Hugh Allan at Harrison
+104545,Eastbound Rogers at Hugh Allan,50.651646996261,-120.374674999741,104545,0,,Eastbound Rogers at Hugh Allan
+104546,Eastbound 1250 block Rogers,50.6513509957108,-120.37233599984302,104546,0,,Eastbound 1250 block Rogers
+104547,Eastbound Rogers Way at Rogers Pl,50.651465996125594,-120.36804299997101,104547,0,,Eastbound Rogers Way at Rogers Pl
+104548,Northbound Hillside Way at Hillside Crt,50.6556809962321,-120.36883300055801,104548,0,,Northbound Hillside Way at Hillside Crt
+104551,Eastbound Notre Dame at Dalhousie,50.6633879965889,-120.36338600052301,104551,0,,Eastbound Notre Dame at Dalhousie
+104552,Eastbound Notre Dame at Cemetery,50.663452996164196,-120.359191999851,104552,0,,Eastbound Notre Dame at Cemetery
+104553,Eastbound Notre Dame at Laval,50.6635149963125,-120.356767000656,104553,0,,Eastbound Notre Dame at Laval
+104554,Eastbound Notre Dame at Columbia St W,50.663372995915296,-120.352182999855,104554,0,,Eastbound Notre Dame at Columbia
+104555,Northbound Summit at Notre Dame,50.66344899593759,-120.348229000249,104555,0,,Northbound Summit at Notre Dame
+104556,Northbound 1300 block Summit,50.6653519963607,-120.349837000644,104556,0,,Northbound 1300 block Summit
+104557,Westbound Summit at Arrowstone,50.6670379961319,-120.352303000002,104557,0,,Westbound Summit at Arrowstone
+104559,Northbound 640 block Columbia St W,50.672431243915696,-120.353277762656,104559,0,,Northbound 640 block Columbia
+104560,Westbound Battle at 3rd Ave,50.673225996178004,-120.33513399964401,104560,0,,Westbound Battle at 3rd Ave
+104561,Westbound Battle St W at 1st Ave,50.6737339958858,-120.339337000195,104561,0,,Westbound Battle at 1st Ave
+104562,Westbound Battle St W at Lee,50.6742819962692,-120.342225000319,104562,0,,Westbound Battle at Lee
+104563,Northbound Strathcona at Battle St W,50.6759799961133,-120.348657999756,104563,0,,Northbound Strathcona at Battle
+104564,Westbound Strathcona at Hemlock,50.6773579963252,-120.35294400048001,104564,0,,Westbound Strathcona at Hemlock
+104565,Westbound Lombard at Centre,50.6775419961052,-120.35573299996099,104565,0,,Westbound Lombard at Centre
+104566,Southbound Centre at Battle St W,50.6757129957214,-120.356255000193,104566,0,,Southbound Centre at Battle
+104567,Eastbound Grandview at Dalgleish,50.6749749963834,-120.354768999919,104567,0,,Eastbound Grandview at Dalgleish
+104568,Eastbound Grandview at Dufferin,50.6742849965677,-120.35046700054401,104568,0,,Eastbound Grandview at Dufferin
+104569,Westbound Grandview at Garden,50.6747669958965,-120.35143300045601,104569,0,,Westbound Grandview at Garden
+104570,Westbound Grandview at Dalgleish,50.675094995897794,-120.355058999986,104570,0,,Westbound Grandview at Dalgleish
+104571,Northbound Centre at Battle St W,50.6757159957526,-120.35603800030101,104571,0,,Northbound Centre at Battle
+104572,Eastbound Lombard at Centre,50.67741299582401,-120.35550699949201,104572,0,,Eastbound Lombard at Centre
+104573,Eastbound Strathcona at Hemlock,50.6767109956905,-120.35182899947601,104573,0,,Eastbound Strathcona at Hemlock
+104574,Southbound Strathcona at Battle St W,50.6761119965291,-120.34897699953,104574,0,,Southbound Strathcona at Battle
+104575,Eastbound Battle St W at Lee,50.6740289964108,-120.34153700008702,104575,0,,Eastbound Battle at Lee
+104576,Eastbound Battle at 1st Ave,50.67346499574,-120.33853299983501,104576,0,,Eastbound Battle at 1st Ave
+104577,Lansdowne Exchange Bay B,50.676849995907,-120.326258999388,104577,0,800004,Lansdowne Exchange Bay B
+104578,TRU Exchange Bay E,50.6710739958578,-120.36807199990601,104578,0,800014,TRU Exchange Bay E
+104579,Eastbound Summit at Springhill,50.6605439962554,-120.34530000031,104579,0,,Eastbound Summit at Springhill
+104580,Westbound 1470 block Springhill,50.6609879958314,-120.34747499951001,104580,0,,Westbound 1470 block Springhill
+104581,Southbound 1560 block Springhill,50.6610249959425,-120.351903000246,104581,0,,Southbound 1560 block Springhill
+104582,Southbound Springhill at Springfield,50.659319996569,-120.35571699962,104582,0,,Southbound Springhill at Springfield
+104583,Southbound Springhill at Lasage,50.6552149964133,-120.35760699965701,104583,0,,Southbound Springhill at Lasage
+104584,Westbound Springhill at Gleneagles,50.6536989963256,-120.359606999608,104584,0,,Westbound Springhill at Gleneagles
+104585,Southbound Springhill at Gleneagles,50.653148995772696,-120.36195200034301,104585,0,,Southbound Springhill at Gleneagles
+104586,Southbound Gleneagles at Glen Gary,50.6510249961294,-120.35843499974101,104586,0,,Southbound Gleneagles at Glen Gary
+104587,Eastbound Gleneagles at Wentworth,50.65026999648101,-120.35595099948,104587,0,,Eastbound Gleneagles at Wentworth
+104588,Northbound Gleneagles at Skagit,50.6525329962274,-120.35353400030502,104588,0,,Northbound Gleneagles at Skagit
+104589,Northbound Gleneagles at Monarch,50.6538029961297,-120.351132000079,104589,0,,Northbound Gleneagles at Monarch
+104590,Southbound 400 block Gleneagles,50.6540199958734,-120.34751700051702,104590,0,,Southbound 400 block Gleneagles
+104591,Southbound Whistler at Gleneagles,50.6517729963776,-120.344238999983,104591,0,,Southbound Whistler at Gleneagles
+104592,Eastbound Whistler Dr at Whistler Pl,50.6508159962525,-120.34244899947501,104592,0,,Eastbound Whistler Dr at Whistler Pl
+104593,Westbound Robson at Hollyburn,50.64981099652609,-120.34211099961401,104593,0,,Westbound Robson at Hollyburn
+104594,Westbound 300 block Robson,50.65047199630519,-120.344737999797,104594,0,,Westbound 300 block Robson
+104595,Westbound Robson at Breakenridge,50.6498689959924,-120.347793999922,104595,0,,Westbound Robson at Breakenridge
+104596,Westbound Robson at Gladstone,50.6494429965397,-120.353955000644,104596,0,,Westbound Robson at Gladstone
+104597,Southbound Robson at Gladstone,50.6476649964345,-120.353647000621,104597,0,,Southbound Robson at Gladstone
+104598,Eastbound Summit at Monteith,50.646360996311394,-120.35142399977101,104598,0,,Eastbound Summit at Monteith
+104599,Eastbound Summit at Hollyburn,50.6468559963341,-120.347690000264,104599,0,,Eastbound Summit at Hollyburn
+104600,Eastbound Summit at Tremerton,50.64770899616109,-120.34240599988401,104600,0,,Eastbound Summit at Tremerton
+104601,Eastbound Summit at Robson,50.6481999963952,-120.33967999987,104601,0,,Eastbound Summit at Robson
+104602,Westbound Summit at Gleneagles,50.6525219962706,-120.341620000172,104602,0,,Westbound Summit at Gleneagles
+104603,Northbound Summit at Waddington,50.654900996141,-120.344373999979,104603,0,,Northbound Summit at Waddington
+104604,Eastbound Summit at Freshfield,50.656196996515895,-120.34110100061001,104604,0,,Eastbound Summit at Freshfield
+104605,Northbound Summit at Whiteshield Cres S,50.657371995738195,-120.33898899972002,104605,0,,Northbound Summit at Whiteshield Cres S
+104606,Westbound Summit at Gordonhorn,50.659265996356694,-120.33974299956,104606,0,,Westbound Summit at Gordonhorn
+104607,Westbound Summit at Whiteshield,50.659791996152,-120.34239499933601,104607,0,,Westbound Summit at Whiteshield
+104608,Westbound Summit at Springhill,50.6608049957542,-120.34542000028202,104608,0,,Westbound Summit at Springhill
+104609,Westbound McGill at Camosun,50.667630995732594,-120.36716700065801,104609,0,,Westbound McGill at Camosun
+104610,TRU Exchange Bay C,50.6711399959231,-120.368203999834,104610,0,800014,TRU Exchange Bay C
+104611,Northbound McGill Rd at McGill Pl,50.6694479964738,-120.372993000146,104611,0,,Northbound McGill Rd at McGill Pl
+104612,Northbound McGill at McMaster,50.671753995700094,-120.37400799993802,104612,0,,Northbound McGill at McMaster
+104613,Northbound McGill at Concordia,50.6738269961576,-120.37588800067302,104613,0,,Northbound McGill at Concordia
+104614,North Shore Exchange Bay F,50.69785699643,-120.36041300004001,104614,0,800007,North Shore Exchange Bay F
+104615,Southbound McGill at Concordia,50.6733459958296,-120.37570099951401,104615,0,,Southbound McGill at Concordia
+104616,Southbound McGill at McMaster,50.6712369960559,-120.373761000394,104616,0,,Southbound McGill at McMaster
+104617,Southbound McGill Rd at McGill Pl,50.668936996441595,-120.37314299963,104617,0,,Southbound McGill Rd at McGill Pl
+104618,North Shore Exchange Bay A ,50.6977409960834,-120.36013899947,104618,0,800007,North Shore Exchange Bay A
+104619,Eastbound 710 block Halston,50.7106269957458,-120.359627999945,104619,0,,Eastbound 710 block Halston
+104620,Southbound Halston Connector at Salish,50.7117489963601,-120.335557000627,104620,0,,Southbound Halston Connector at Salish
+104621,Northbound Old Highway 5 at Devick,50.7884849966065,-120.317279000244,104621,0,,Northbound Old Highway 5 at Devick
+104622,Northbound Old Highway 5 at Mattoch-McKeague,50.79157299649479,-120.315417999713,104622,0,,Northbound Old Highway 5 at Mattoch-McKeague
+104623,Northbound Old Highway 5 at Puett Ranch,50.796904995891296,-120.31209600052001,104623,0,,Northbound Old Highway 5 at Puett Ranch
+104624,Northbound 6790 block Old Highway 5,50.8510189965371,-120.266787000033,104624,0,,Northbound 6790 block Old Highway 5
+104625,Northbound Old Highway 5 at Creek,50.86031199603109,-120.26533399936001,104625,0,,Northbound Old Highway 5 at Creek
+104626,Westbound Puett Ranch at Old Highway 5,50.7973849964191,-120.31243899994202,104626,0,,Westbound Puett Ranch at Old Highway 5
+104627,Northbound Cammeray at Puett Ranch,50.7977709963736,-120.314851999892,104627,0,,Northbound Cammeray at Puett Ranch
+104628,Northbound Cammeray at Strawberry,50.7997859963195,-120.31466999941601,104628,0,,Northbound Cammeray at Strawberry
+104629,Northbound Cammeray at Chilco,50.8031649964086,-120.31236699968001,104629,0,,Northbound Cammeray at Chilco
+104630,Westbound Reighmount at Pinantan,50.8041449958643,-120.312642000218,104630,0,,Westbound Reighmount at Pinantan
+104631,Westbound Reighmount at Kathleen,50.804957996109394,-120.317970999671,104631,0,,Westbound Reighmount at Kathleen
+104632,Southbound Aspen Park at Spurraway,50.8039889963393,-120.321155000547,104632,0,,Southbound Aspen Park at Spurraway
+104633,Southbound Aspen Park at Helmcken,50.8011379965279,-120.323068000204,104633,0,,Southbound Aspen Park at Helmcken
+104634,Southbound Spurraway at Helmcken,50.800579996109896,-120.320430000512,104634,0,,Southbound Spurraway at Helmcken
+104635,Southbound Spurraway at Puett Ranch,50.797579996184396,-120.320413000414,104635,0,,Southbound Spurraway at Puett Ranch
+104636,Southbound Furiak at Puett Ranch,50.7969679960763,-120.32297100035001,104636,0,,Southbound Furiak at Puett Ranch
+104637,Eastbound Mattoch-McKeague at Furiak,50.793117995849094,-120.32216100008401,104637,0,,Eastbound Mattoch-McKeague at Furiak
+104638,Southbound Old Highway 5 at Mattoch-McKeague,50.791105996555,-120.31587499933401,104638,0,,Southbound Old Highway 5 at Mattoch-McKeague
+104639,Southbound block Old Highway 5 at Devick,50.7882309964614,-120.317685000598,104639,0,,Southbound block Old Highway 5 at Devick
+104640,Northbound Halston Connector at Josep,50.7117909963023,-120.33500899956401,104640,0,,Northbound Halston Connector at Josep
+104641,Westbound Southview at Hillcrest,50.712164996206,-120.370781999883,104641,0,,Westbound Southview at Hillcrest
+104642,Eastbound Linthorpe at Southview,50.7140529960029,-120.372097999782,104642,0,,Eastbound Linthorpe at Southview
+104643,Eastbound Linthorpe at Hillcrest,50.7140259960215,-120.37054200004901,104643,0,,Eastbound Linthorpe at Hillcrest
+104644,Northbound Batchelor at Norview,50.7173519957894,-120.369394999725,104644,0,,Northbound Batchelor at Norview
+104645,Northbound Grasslands at Quail,50.7215379958654,-120.37043099943101,104645,0,,Northbound Grasslands at Quail
+104646,Eastbound Quail at Quails Roost,50.719937995810895,-120.36546599944,104646,0,,Eastbound Quail at Quails Roost
+104647,Northbound Quail Dr at Quail Crt,50.7213539956847,-120.36423899958801,104647,0,,Northbound Quail Dr at Quail Crt
+104648,Westbound Raven at Grasslands,50.722619996183695,-120.36787400017501,104648,0,,Westbound Raven at Grasslands
+104649,Southbound Batchelor at Grasslands,50.7203439958789,-120.369903999414,104649,0,,Southbound Batchelor at Grasslands
+104650,Eastbound Norview Rd at Norview Pl,50.7184919962959,-120.36382399933701,104650,0,,Eastbound Norview Rd at Norview Pl
+104651,Southbound North River at Norview,50.7184869964811,-120.361705000574,104651,0,,Southbound North River at Norview
+104652,Southbound North River at Leighton,50.716225996041295,-120.366654999695,104652,0,,Southbound North River at Leighton
+104653,Southbound Batchelor at North River,50.7142139959021,-120.366465999346,104653,0,,Southbound Batchelor at North River
+104654,Lansdowne Exchange Bay E,50.6767699961157,-120.32577899951401,104654,0,800004,Lansdowne Exchange Bay E
+104655,Eastbound Seymour at 6th Ave,50.6748629962394,-120.326669000308,104655,0,,Eastbound Seymour at 6th Ave
+104656,Eastbound Seymour at 8th Ave,50.67484099644201,-120.32177299977101,104656,0,,Eastbound Seymour at 8th Ave
+104657,Eastbound Victoria at 10th Ave,50.67396299572479,-120.31564699997,104657,0,,Eastbound Victoria at 10th Ave
+104658,Eastbound Battle at 12th Ave,50.673017996583795,-120.311349000052,104658,0,,Eastbound Battle at 12th Ave
+104659,Eastbound Battle at Columbia,50.673006995716804,-120.306945999658,104659,0,,Eastbound Battle at Columbia
+104660,Eastbound Valleyview at Rose Hill,50.6722329959398,-120.294611000381,104660,0,,Eastbound Valleyview at Rose Hill
+104661,Northbound Valleyview at Comazzetto,50.6744649957818,-120.29061399974101,104661,0,,Northbound Valleyview at Comazzetto
+104662,Eastbound Valleyview at Knollwood,50.675168996409,-120.288111999725,104662,0,,Eastbound Valleyview at Knollwood
+104663,Eastbound Valleyview at Orchard,50.6757399964779,-120.283412999378,104663,0,,Eastbound Valleyview at Orchard
+104664,Eastbound Valleyview at Cardinal,50.6758919958885,-120.276754999787,104664,0,,Eastbound Valleyview at Cardinal
+104665,Northbound Oriole at Glenwood,50.6773979961115,-120.272183000172,104665,0,,Northbound Oriole at Glenwood
+104666,Eastbound Falcon at Oriole,50.6788229961211,-120.271530999604,104666,0,,Eastbound Falcon at Oriole
+104667,Eastbound E Trans-Canada Hwy Frtg at Industrial,50.6800669964155,-120.26701799962801,104667,0,,Eastbound E Trans-Canada Hwy Frtg at Industrial
+104668,Eastbound Flamingo at Highland,50.67873099612479,-120.261829000233,104668,0,,Eastbound Flamingo at Highland
+104669,Southbound Highland at Crescent,50.6773719961785,-120.26198799952401,104669,0,,Southbound Highland at Crescent
+104670,Southbound 280 block Highland,50.674053995879504,-120.263773000367,104670,0,,Southbound 280 block Highland
+104671,Westbound QuAppelle at Stikine,50.6612139962609,-120.262826000531,104671,0,,Westbound QuAppelle at Stikine
+104672,Eastbound Coldwater at Skeena,50.660089995766796,-120.265200999482,104672,0,,Eastbound Coldwater at Skeena
+104673,Eastbound 2100 block Skeena,50.6601569958287,-120.26156900069701,104673,0,,Eastbound 2100 block Skeena
+104674,Eastbound 2210 block Skeena,50.659918995923,-120.257921000332,104674,0,,Eastbound 2210 block Skeena
+104675,Northbound Finlay at Omineca,50.661010996033795,-120.254423999907,104675,0,,Northbound Finlay at Omineca
+104676,Eastbound QuAppelle at Finlay,50.66194899654249,-120.25389799952302,104676,0,,Eastbound QuAppelle at Finlay
+104677,Eastbound QuAppelle at Abitibi,50.6616429962711,-120.249078000408,104677,0,,Eastbound QuAppelle at Abitibi
+104678,Southbound QuAppelle at Nechako,50.660580996519194,-120.24593199934901,104678,0,,Southbound QuAppelle at Nechako
+104679,Eastbound QuAppelle at Adams,50.6593729961984,-120.243220999574,104679,0,,Eastbound QuAppelle at Adams
+104680,Eastbound QuAppelle at Capilano,50.658395996216,-120.237311999285,104680,0,,Eastbound QuAppelle at Capilano
+104681,Northbound Churchill at Squamish,50.65886999588469,-120.23458499983902,104681,0,,Northbound Churchill at Squamish
+104682,Westbound Capilano at QuAppelle,50.6595449958146,-120.237887999747,104682,0,,Westbound Capilano at QuAppelle
+104683,Westbound QuAppelle at Capilano,50.6587989966022,-120.23905000024601,104683,0,,Westbound QuAppelle at Capilano
+104684,Westbound QuAppelle at Adams,50.6594849965482,-120.24314600002901,104684,0,,Westbound QuAppelle at Adams
+104685,Northbound QuAppelle at Nechako,50.6606429958539,-120.24569700023201,104685,0,,Northbound QuAppelle at Nechako
+104686,Westbound QuAppelle at Bella Coola,50.6617979958817,-120.24845000029501,104686,0,,Westbound QuAppelle at Bella Coola
+104687,Westbound QuAppelle at Finlay,50.6621779963175,-120.25429499950401,104687,0,,Westbound QuAppelle at Finlay
+104688,Southbound 2200 block QuAppelle,50.661435996424395,-120.25763599990601,104688,0,,Southbound 2200 block QuAppelle
+104689,Westbound QuAppelle at Highland,50.66113299631309,-120.26091100015,104689,0,,Westbound QuAppelle at Highland
+104690,Northbound 310 block Highland,50.6735959964769,-120.26367600012601,104690,0,,Northbound 310 block Highland
+104691,Northbound Highland at Valleyview,50.6766049963748,-120.261877999364,104691,0,,Northbound Highland at Valleyview
+104692,Northbound Highland at Crescent,50.6779079961009,-120.261375000615,104692,0,,Northbound Highland at Crescent
+104693,Westbound Flamingo at Highland,50.6789029962597,-120.262104999396,104693,0,,Westbound Flamingo at Highland
+104694,Westbound E Trans-Canada Hwy Frtg at Industrial,50.6801529957323,-120.26667700048601,104694,0,,Westbound E Trans-Canada Hwy Frtg at Industrial
+104695,Westbound Falcon at Oriole,50.6789409961941,-120.271404000158,104695,0,,Westbound Falcon at Oriole
+104696,Southbound Oriole at Glenwood,50.676788995897695,-120.272454999667,104696,0,,Southbound Oriole at Glenwood
+104697,Westbound 1970 block Valleyview,50.6758749965162,-120.27474799924501,104697,0,,Westbound 1970 block Valleyview
+104698,Westbound Valleyview at Knollwood,50.6757509959561,-120.28441099972001,104698,0,,Westbound Valleyview at Knollwood
+104699,Westbound Valleyview at Knollwood,50.6752189964089,-120.288908999685,104699,0,,Westbound Valleyview at Knollwood
+104700,Southbound Valleyview at Strom,50.67426699573009,-120.291087999769,104700,0,,Southbound Valleyview at Strom
+104701,Westbound Valleyview at E Trans-Canada Hwy Frtg,50.672504995923894,-120.29612999958,104701,0,,Westbound Valleyview at E Trans-Canada Hwy Frtg
+104702,Westbound Columbia at Nicola,50.6722169963753,-120.30777399947601,104702,0,,Westbound Columbia at Nicola
+104703,Westbound Columbia at 10th Ave,50.6714319958038,-120.316978999483,104703,0,,Westbound Columbia at 10th Ave
+104704,Westbound Columbia at 8th Ave,50.6714469959365,-120.32174500000701,104704,0,,Westbound Columbia at 8th Ave
+104705,Northbound 6th Ave at Nicola,50.671969995930795,-120.32705500062902,104705,0,,Northbound 6th Ave at Nicola
+104706,Northbound 6th Ave at St Paul,50.6742749961291,-120.32701399960702,104706,0,,Northbound 6th Ave at St Paul
+104707,Eastbound Valleyview at Highland,50.676148995789895,-120.261350000213,104707,0,,Eastbound Valleyview at Highland
+104708,Eastbound Valleyview at Miller,50.6751769962921,-120.256552000084,104708,0,,Eastbound Valleyview at Miller
+104709,Eastbound Valleyview at River,50.674186995888,-120.25184199994901,104709,0,,Eastbound Valleyview at River
+104710,Eastbound Valleyview at MacAdam,50.673239996087496,-120.245433000399,104710,0,,Eastbound Valleyview at MacAdam
+104711,Eastbound Valleyview at McKay,50.6728809961255,-120.24167500058101,104711,0,,Eastbound Valleyview at McKay
+104712,Northbound Tanager at Valleyview,50.672997996133006,-120.23887399999902,104712,0,,Northbound Tanager at Valleyview
+104713,Eastbound E Trans-Canada at Holman,50.6696539962404,-120.204257000421,104713,0,,Eastbound E Trans-Canada at Holman
+104714,Southbound Todd at Crawford,50.6675709960303,-120.18777600056701,104714,0,,Southbound Todd at Crawford
+104715,Southbound Todd at Klahanie,50.6571189963623,-120.18436099978001,104715,0,,Southbound Todd at Klahanie
+104716,Southbound Todd at Lamar,50.6546839960795,-120.18182800005602,104716,0,,Southbound Todd at Lamar
+104717,Southbound Todd at Sunrise,50.6511739963082,-120.17966200049801,104717,0,,Southbound Todd at Sunrise
+104718,Eastbound Lamar at Todd,50.6495679963928,-120.176598000423,104718,0,,Eastbound Lamar at Todd
+104719,Northbound Lamar at Norland,50.6495399961189,-120.174126999795,104719,0,,Northbound Lamar at Norland
+104720,Northbound Clearview at Wildwood,50.6524589961401,-120.17468800041301,104720,0,,Northbound Clearview at Wildwood
+104721,Eastbound Clearview at Belair,50.6530139960761,-120.16963399951,104721,0,,Eastbound Clearview at Belair
+104722,Eastbound Clearview at Foxwood,50.6518509965467,-120.16476199945001,104722,0,,Eastbound Clearview at Foxwood
+104723,Eastbound Clearview at Todd,50.65072599570859,-120.162761999865,104723,0,,Eastbound Clearview at Todd
+104724,Westbound Todd at Belair,50.649190996454095,-120.16407599974,104724,0,,Westbound Todd at Belair
+104725,Southbound Todd at Pringle,50.648290996048495,-120.166472000118,104725,0,,Southbound Todd at Pringle
+104726,Westbound Todd at Pratt,50.645615996340396,-120.16984499932701,104726,0,,Westbound Todd at Pratt
+104727,Westbound 1450 block Todd,50.64790299583709,-120.17460999982701,104727,0,,Westbound 1450 block Todd
+104728,Northbound Todd at Lamar,50.6494589958782,-120.176808000307,104728,0,,Northbound Todd at Lamar
+104729,Westbound Todd at Sunrise,50.650794995756,-120.179093999763,104729,0,,Westbound Todd at Sunrise
+104730,Northbound Todd at Lamar,50.6551129957358,-120.181937000348,104730,0,,Northbound Todd at Lamar
+104731,Northbound Todd at Klahanie,50.6573619960274,-120.18438599985001,104731,0,,Northbound Todd at Klahanie
+104732,Northbound Todd at Dallas,50.667739996470004,-120.18739400036301,104732,0,,Northbound Todd at Dallas
+104733,Eastbound Dallas at Bogetti,50.66796899630249,-120.18182200025701,104733,0,,Eastbound Dallas at Bogetti
+104734,Eastbound Dallas at Ridge,50.6679479962165,-120.177263999749,104734,0,,Eastbound Dallas at Ridge
+104735,Eastbound Dallas at Todd Hill,50.665665996302494,-120.16976499986201,104735,0,,Eastbound Dallas at Todd Hill
+104736,Eastbound Dallas at Todd Hill,50.6647059962248,-120.16396499952901,104736,0,,Eastbound Dallas at Todd Hill
+104737,Eastbound Dallas at Mountview,50.6647709962407,-120.157363000469,104737,0,,Eastbound Dallas at Mountview
+104738,Eastbound Dallas at Yarrow,50.66564699654769,-120.150895000177,104738,0,,Eastbound Dallas at Yarrow
+104739,Eastbound 6750 block Dallas,50.6656289964172,-120.14535400004401,104739,0,,Eastbound 6750 block Dallas
+104740,Eastbound 7120 block Dallas,50.6637409959968,-120.13651400002901,104740,0,,Eastbound 7120 block Dallas
+104741,Eastbound 7320 block Dallas,50.6628519965551,-120.13204700035101,104741,0,,Eastbound 7320 block Dallas
+104742,Eastbound Dallas at OConnor,50.662173995827295,-120.12918500038201,104742,0,,Eastbound Dallas at OConnor
+104743,Eastbound 7590 block Dallas,50.6587669964219,-120.123054999714,104743,0,,Eastbound 7590 block Dallas
+104744,Eastbound Dallas at Peerless,50.6562199963127,-120.10543399929401,104744,0,,Eastbound Dallas at Peerless
+104745,Eastbound Dallas at Andover,50.655522996197895,-120.097305999495,104745,0,,Eastbound Dallas at Andover
+104746,Eastbound Dallas at Cougar,50.6554759959812,-120.083940000345,104746,0,,Eastbound Dallas at Cougar
+104747,Eastbound 9150 block Dallas,50.65493599570429,-120.07692400005101,104747,0,,Eastbound 9150 block Dallas
+104748,Southbound Kokanee at E Trans-Canada,50.6595499962171,-120.119051000668,104748,0,,Southbound Kokanee at E Trans-Canada
+104749,Westbound 7540 block Dallas,50.6590679964227,-120.12350000022201,104749,0,,Westbound 7540 block Dallas
+104750,Westbound Dallas at OConnor,50.6618819963572,-120.128229000401,104750,0,,Westbound Dallas at OConnor
+104751,Westbound 7300 block Dallas,50.6631349964344,-120.13269500000501,104751,0,,Westbound 7300 block Dallas
+104752,Westbound 7110 block Dallas,50.663855996321004,-120.13651999982001,104752,0,,Westbound 7110 block Dallas
+104753,Westbound 6750 block Dallas,50.665753996408796,-120.145213999579,104753,0,,Westbound 6750 block Dallas
+104754,Westbound Dallas at Yarrow,50.665783996207395,-120.15099599999901,104754,0,,Westbound Dallas at Yarrow
+104755,Westbound Dallas at Mountview,50.6648659964233,-120.157618999669,104755,0,,Westbound Dallas at Mountview
+104756,Westbound Dallas at Todd Hill,50.6649489961252,-120.16478100031802,104756,0,,Westbound Dallas at Todd Hill
+104757,Westbound Dallas at Harper,50.6669259959443,-120.17359599998301,104757,0,,Westbound Dallas at Harper
+104758,Westbound Dallas at Ridge,50.668032995724296,-120.176421999884,104758,0,,Westbound Dallas at Ridge
+104759,Westbound Dallas at Bogetti,50.6681119957944,-120.18210800009301,104759,0,,Westbound Dallas at Bogetti
+104760,Westbound E Trans-Canada at Nina,50.669704995914195,-120.182969999731,104760,0,,Westbound E Trans-Canada at Nina
+104761,Southbound Tanager at Sunset,50.673939995800495,-120.238592000322,104761,0,,Southbound Tanager at Sunset
+104762,Westbound Valleyview at Tanager,50.6727779964413,-120.23954400060701,104762,0,,Westbound Valleyview at Tanager
+104763,Westbound Valleyview at McKay,50.6731259957503,-120.24300699997201,104763,0,,Westbound Valleyview at McKay
+104764,Westbound Valleyview at MacAdam,50.673442996072694,-120.246328999767,104764,0,,Westbound Valleyview at MacAdam
+104765,Westbound Valleyview at River,50.6745399959175,-120.252845999366,104765,0,,Westbound Valleyview at River
+104766,Westbound Valleyview at Park,50.675540996055,-120.257525999551,104766,0,,Westbound Valleyview at Park
+104767,Westbound Battle at 13th Ave,50.6732559962647,-120.30816300066901,104767,0,,Westbound Battle at 13th Ave
+104768,Westbound Battle at 12th Ave,50.6732239961848,-120.310824999674,104768,0,,Westbound Battle at 12th Ave
+104769,Westbound Victoria at 10th Ave,50.6742509965083,-120.31583199993501,104769,0,,Westbound Victoria at 10th Ave
+104770,Eastbound Mattoch-McKeague at Cameron,50.791947996396104,-120.317895000099,104770,0,,Eastbound Mattoch-McKeague at Cameron
+104832,Westbound Valleyview at Sunset,50.6723539961145,-120.235562000344,104832,0,,Westbound Valleyview at Sunset
+104884,Eastbound Dallas at Harper,50.6665239961496,-120.173074000154,104884,0,,Eastbound Dallas at Harper
+104910,Westbound McGill at Bestwick,50.667270996330195,-120.338709000239,104910,0,,Westbound McGill at Bestwick
+151000,Eastbound Versatile at Copperhead,50.6588993281459,-120.396943934467,151000,0,,Eastbound Versatile at Copperhead
+151001,Eastbound 1700 blcok Versatile,50.6560566428924,-120.390099626871,151001,0,,Eastbound 1700 blcok Versatile
+151002,Southbound Versatile at Hugh Allan,50.6536707838727,-120.38342727034001,151002,0,,Southbound Versatile at Hugh Allan
+151003,Westbound Victoria at 8th,50.675881934381394,-120.321294996071,151003,0,,Westbound Victoria at 8th
+151004,Eastbound Columbia  at 3rd,50.6712903993835,-120.33367045606201,151004,0,,Eastbound Columbia at 3rd
+151022,SB Grand Blvd AT Valleyview Dr,50.670355403759004,-120.22752187661001,151022,0,,SB Grand Blvd AT Valleyview Dr
+151023,NB Grand Blvd AT Valleyview Dr,50.6704023460974,-120.22720848787301,151023,0,,NB Grand Blvd AT Valleyview Dr
+800004,Lansdowne Exchange,50.67678599570149,-120.32701099938102,800004,1,,Lansdowne Exchange
+800007,North Shore Exchange,50.6978929965498,-120.359947000236,800007,1,,North Shore Exchange
+800014,TRU Exchange,50.6710949963501,-120.368817999626,800014,1,,TRU Exchange

@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_phone,agency_timezone,agency_lang
+8,BC Transit - Kamloops Transit System,http://www.bctransit.com/kamloops/,250-376-1216,America/Vancouver,en
